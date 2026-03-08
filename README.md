@@ -8,7 +8,7 @@ Returns all tasks.
 POST /tasks
 Creates new task.
 
-Example:
+Пример:
 
 POST /tasks
 
